@@ -1,7 +1,7 @@
 # REG NO:212223040068
 # NAME: ISTIN B
 
-# EX-7 Update the Ultrasonic sensor value in Things Mate
+# EX-7: Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
